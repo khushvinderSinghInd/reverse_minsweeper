@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "248901197805",
+    "project_id": "reverseminesweeper",
+    "storage_bucket": "reverseminesweeper.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248901197805:android:8a9d1bcbbe6812796891e4",
+        "android_client_info": {
+          "package_name": "com.example.minesweeper_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248901197805-i45ephusoq81tpb89pt9vnv4eh4mbtt6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.minesweeper_game",
+            "certificate_hash": "e15c766f4ee48dacfd5be70ce26eef3b36380a4b"
+          }
+        },
+        {
+          "client_id": "248901197805-h2jttm8m4s6mhhasfl6bnehaoha0jn2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOnt-j1ffNUJRSa5VwaDMO087jEXhHfQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248901197805-h2jttm8m4s6mhhasfl6bnehaoha0jn2v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "248901197805-498136387elskped6djolu6gmv8p7usi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.minesweeperGame"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
